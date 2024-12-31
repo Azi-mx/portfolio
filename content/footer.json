@@ -1,0 +1,46 @@
+{
+	"contacts": [
+		{ 
+			"source": "Email",
+			"link": "mailto:bagsariyaa@gmail.com",
+			"note": "Would Love to Collab and share ideas."
+		},
+		{ 
+			"source": "Call",
+			"link": "tel:+916353852527",
+			"note": "Need To Execute ideas? Let's Talk."
+		},
+		{ 
+			"source": "Address",
+			"link": "https://www.google.com/maps?sca_esv=dd4f2f9b345362f6&rlz=1C1VIQF_enIN1128IN1128&output=search&q=ahmedabad&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkW1DRbm01j6DCVS0r1sTxn7h_rt6mVhwDmwtd3hPZjM8xOYJM4hmmrxWbUY3sD5VWInEr72FuTZbj9ChCqJ4mCxghM2cMFH7gIH_G8vZtaRR56jKPMVJL-tjZeuG16Edf55bU1BRV-hlrZelf66ul4mA-M5KMAH5Zm52ES4LJnfrAKwGKPek72ZoV3pVD1_4Qf2LpW_A&entry=mc&ved=1t:200715&ictx=111",
+			"note": "Basically From Ahmedabad, India."
+		}
+	],
+
+	"links": [
+		{ 
+			"person": "Faizan Ahmed",
+			"link": "https://github.com/Faizanahmedsy",
+			"note": "Best Mentor I have met ever."
+		}
+	],
+
+	"social": [
+		{
+			"url": "https://medium.com/@bagsariyaa",
+			"icon": "medium"
+		},
+		{
+			"url": "https://dev.to/azimx",
+			"icon": "dev"
+		},
+		{
+			"url": "https://www.linkedin.com/in/azim-bagsariya-a7b9611a4/",
+			"icon": "linkedin"
+		},
+		{
+			"url": "https://github.com/Azi-mx",
+			"icon": "github"
+		}
+	]
+}

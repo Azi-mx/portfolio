@@ -1,0 +1,26 @@
+[
+	{
+		"project": "VProsper",
+		"url": "https://vprosper.in/",
+		"repo": "Private",
+		"descriptionTitle": "VProsper: Wellness Solution",
+		"description": "Pioneering Health Solutions for a Better Tomorrow.",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/Mockup.png" },
+			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/vprosperMock.png" }
+		],
+		"stack": [
+			{ "key": "mongodb",	"name": "MongoDB", 		"type": "devicon" },
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },
+			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
+			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
+			{ "key": "figma",		"name": "Figma", 		"type": "devicon" }
+		]
+	}
+]
