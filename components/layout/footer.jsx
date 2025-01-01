@@ -1,5 +1,4 @@
 import Container from "../structure/container";
-import Icon from "../utils/icon.util";
 
 import css from "../../styles/structure/footer.module.scss";
 
@@ -19,7 +18,7 @@ export default function Footer() {
                 <li key={index}>
                   <a href={link} rel="noreferrer" target="_blank">
                     {source}{" "}
-                    <Icon icon={["fad", "arrow-up-right-from-square"]} />
+                    {/* <Icon icon={["fad", "arrow-up-right-from-square"]} /> */}
                   </a>
                   <p>{note}</p>
                 </li>
@@ -35,7 +34,7 @@ export default function Footer() {
                 <li key={index}>
                   <a href={link} rel="noreferrer" target="_blank">
                     {person}{" "}
-                    <Icon icon={["fad", "arrow-up-right-from-square"]} />
+                    {/* <Icon icon={["fad", "arrow-up-right-from-square"]} /> */}
                   </a>
                   <p>{note}</p>
                 </li>
@@ -50,7 +49,7 @@ export default function Footer() {
               {content.social.map(({ url, icon }, index) => {
                 return (
                   <a key={index} href={url} rel="noreferrer" target="_blank">
-                    <Icon icon={["fab", icon]} />
+                    {/* <Icon icon={["fab", icon]} /> */}
                   </a>
                 );
               })}
